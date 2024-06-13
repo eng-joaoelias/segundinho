@@ -42,4 +42,4 @@ Você é bem-vindo para contribuir com este projeto! Se você encontrar um bug o
 
 ## Licença
 
-Este projeto está sob a (licença MIT)[LICENSE].
+Este projeto está sob a [licença MIT](LICENSE).
